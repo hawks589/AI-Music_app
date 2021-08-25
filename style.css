@@ -1,0 +1,23 @@
+body {
+    font-family: 'IBM Plex Serif', serif;
+    width: 100%;
+    width: 100%;
+}
+
+.heading {
+    font-size: 26px;
+    width: 100%;
+    margin: 0;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 18px;
+    color: black;
+}
+
+canvas{
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 20px;
+}
