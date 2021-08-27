@@ -1,23 +1,23 @@
-body {
-    font-family: 'IBM Plex Serif', serif;
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
     width: 100%;
-    width: 100%;
+    margin: 0px;
 }
-
-.heading {
-    font-size: 26px;
-    width: 100%;
-    margin: 0;
-    font-weight: bold;
+.note{
+    font-size: 15px;
+    color: white;
 }
-
-.note {
-    font-size: 18px;
-    color: black;
-}
-
-canvas{
-    background-color: black;
-    border: 5px solid white;
-    border-radius: 20px;
-}
+#song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
